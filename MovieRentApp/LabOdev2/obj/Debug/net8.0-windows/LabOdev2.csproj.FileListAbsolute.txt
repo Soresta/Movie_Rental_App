@@ -1,0 +1,60 @@
+C:\Users\akifk\Desktop\Dersler\NTP Örnekler\LabOdev2\LabOdev2\bin\Debug\net8.0-windows\LabOdev2.exe
+C:\Users\akifk\Desktop\Dersler\NTP Örnekler\LabOdev2\LabOdev2\bin\Debug\net8.0-windows\LabOdev2.deps.json
+C:\Users\akifk\Desktop\Dersler\NTP Örnekler\LabOdev2\LabOdev2\bin\Debug\net8.0-windows\LabOdev2.runtimeconfig.json
+C:\Users\akifk\Desktop\Dersler\NTP Örnekler\LabOdev2\LabOdev2\bin\Debug\net8.0-windows\LabOdev2.dll
+C:\Users\akifk\Desktop\Dersler\NTP Örnekler\LabOdev2\LabOdev2\bin\Debug\net8.0-windows\LabOdev2.pdb
+C:\Users\akifk\Desktop\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\LabOdev2.csproj.GenerateResource.cache
+C:\Users\akifk\Desktop\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\LabOdev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifk\Desktop\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\LabOdev2.AssemblyInfoInputs.cache
+C:\Users\akifk\Desktop\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\LabOdev2.AssemblyInfo.cs
+C:\Users\akifk\Desktop\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\LabOdev2.csproj.CoreCompileInputs.cache
+C:\Users\akifk\Desktop\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\LabOdev2.dll
+C:\Users\akifk\Desktop\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\refint\LabOdev2.dll
+C:\Users\akifk\Desktop\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\LabOdev2.pdb
+C:\Users\akifk\Desktop\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\LabOdev2.genruntimeconfig.cache
+C:\Users\akifk\Desktop\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\ref\LabOdev2.dll
+C:\Users\akifk\Desktop\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\LabOdev2.Properties.Resources.resources
+C:\Users\akifk\Desktop\Dersler\NTP Örnekler\LabOdev2\LabOdev2\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\akifk\Desktop\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\LabOdev2.csproj.AssemblyReference.cache
+C:\Users\akifk\Desktop\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\LabOdev2.csproj.CopyComplete
+C:\Users\akifk\Desktop\Dersler\NTP Örnekler\LabOdev2\LabOdev2\bin\Debug\net8.0-windows\Krypton.Toolkit.dll
+C:\Users\akifk\Desktop\Dersler\NTP Örnekler\LabOdev2\LabOdev2\bin\Debug\net8.0-windows\Bunifu.Licensing.dll
+C:\Users\akifk\Desktop\Dersler\NTP Örnekler\LabOdev2\LabOdev2\bin\Debug\net8.0-windows\Bunifu.UI.WinForms.dll
+C:\Users\akifk\Desktop\Dersler\NTP Örnekler\LabOdev2\LabOdev2\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\akifk\Desktop\Dersler\NTP Örnekler\LabOdev2\LabOdev2\bin\Debug\net8.0-windows\RestSharp.dll
+C:\Users\akifk\Desktop\Dersler\NTP Örnekler\LabOdev2\LabOdev2\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\akifk\Desktop\Dersler\NTP Örnekler\LabOdev2\LabOdev2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\akifk\Desktop\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\LabOdev2.GirisForm.resources
+C:\Users\akifk\Desktop\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\LabOdev2.KiralarForm.resources
+C:\Users\akifk\Desktop\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\LabOdev2.filmlerForm.resources
+C:\Users\akifk\Desktop\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\LabOdev2.AnasayfaForm.resources
+C:\Users\akifk\Desktop\Final dersler\Dersler\NTP Örnekler\LabOdev2\LabOdev2\bin\Debug\net8.0-windows\LabOdev2.exe
+C:\Users\akifk\Desktop\Final dersler\Dersler\NTP Örnekler\LabOdev2\LabOdev2\bin\Debug\net8.0-windows\LabOdev2.deps.json
+C:\Users\akifk\Desktop\Final dersler\Dersler\NTP Örnekler\LabOdev2\LabOdev2\bin\Debug\net8.0-windows\LabOdev2.runtimeconfig.json
+C:\Users\akifk\Desktop\Final dersler\Dersler\NTP Örnekler\LabOdev2\LabOdev2\bin\Debug\net8.0-windows\LabOdev2.dll
+C:\Users\akifk\Desktop\Final dersler\Dersler\NTP Örnekler\LabOdev2\LabOdev2\bin\Debug\net8.0-windows\LabOdev2.pdb
+C:\Users\akifk\Desktop\Final dersler\Dersler\NTP Örnekler\LabOdev2\LabOdev2\bin\Debug\net8.0-windows\Bunifu.Licensing.dll
+C:\Users\akifk\Desktop\Final dersler\Dersler\NTP Örnekler\LabOdev2\LabOdev2\bin\Debug\net8.0-windows\Bunifu.UI.WinForms.dll
+C:\Users\akifk\Desktop\Final dersler\Dersler\NTP Örnekler\LabOdev2\LabOdev2\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\akifk\Desktop\Final dersler\Dersler\NTP Örnekler\LabOdev2\LabOdev2\bin\Debug\net8.0-windows\Krypton.Toolkit.dll
+C:\Users\akifk\Desktop\Final dersler\Dersler\NTP Örnekler\LabOdev2\LabOdev2\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\akifk\Desktop\Final dersler\Dersler\NTP Örnekler\LabOdev2\LabOdev2\bin\Debug\net8.0-windows\RestSharp.dll
+C:\Users\akifk\Desktop\Final dersler\Dersler\NTP Örnekler\LabOdev2\LabOdev2\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\akifk\Desktop\Final dersler\Dersler\NTP Örnekler\LabOdev2\LabOdev2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\akifk\Desktop\Final dersler\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\LabOdev2.csproj.AssemblyReference.cache
+C:\Users\akifk\Desktop\Final dersler\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\LabOdev2.AnasayfaForm.resources
+C:\Users\akifk\Desktop\Final dersler\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\LabOdev2.filmlerForm.resources
+C:\Users\akifk\Desktop\Final dersler\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\LabOdev2.GirisForm.resources
+C:\Users\akifk\Desktop\Final dersler\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\LabOdev2.KiralarForm.resources
+C:\Users\akifk\Desktop\Final dersler\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\LabOdev2.Properties.Resources.resources
+C:\Users\akifk\Desktop\Final dersler\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\LabOdev2.csproj.GenerateResource.cache
+C:\Users\akifk\Desktop\Final dersler\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\LabOdev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifk\Desktop\Final dersler\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\LabOdev2.AssemblyInfoInputs.cache
+C:\Users\akifk\Desktop\Final dersler\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\LabOdev2.AssemblyInfo.cs
+C:\Users\akifk\Desktop\Final dersler\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\LabOdev2.csproj.CoreCompileInputs.cache
+C:\Users\akifk\Desktop\Final dersler\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\LabOdev2.csproj.CopyComplete
+C:\Users\akifk\Desktop\Final dersler\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\LabOdev2.dll
+C:\Users\akifk\Desktop\Final dersler\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\refint\LabOdev2.dll
+C:\Users\akifk\Desktop\Final dersler\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\LabOdev2.pdb
+C:\Users\akifk\Desktop\Final dersler\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\LabOdev2.genruntimeconfig.cache
+C:\Users\akifk\Desktop\Final dersler\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\ref\LabOdev2.dll

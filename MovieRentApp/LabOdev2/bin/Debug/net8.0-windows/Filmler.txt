@@ -1,0 +1,4 @@
+Avatar,TR,2:30,Aksiyon,False,120
+3 Body Problem,TR,2:00,BilimKurgu,True,140
+The Joker,ENG,1:30,Korku,True,100
+Batman,TR,120,BilimKurgu,False,120

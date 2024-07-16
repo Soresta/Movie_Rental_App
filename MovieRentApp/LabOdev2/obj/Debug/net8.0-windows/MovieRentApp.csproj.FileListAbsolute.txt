@@ -1,0 +1,11 @@
+C:\Users\akifk\Desktop\Final dersler\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\MovieRentApp.csproj.AssemblyReference.cache
+C:\Users\akifk\Desktop\Final dersler\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\LabOdev2.AnasayfaForm.resources
+C:\Users\akifk\Desktop\Final dersler\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\LabOdev2.filmlerForm.resources
+C:\Users\akifk\Desktop\Final dersler\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\LabOdev2.GirisForm.resources
+C:\Users\akifk\Desktop\Final dersler\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\LabOdev2.KiralarForm.resources
+C:\Users\akifk\Desktop\Final dersler\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\MovieRentApp.Properties.Resources.resources
+C:\Users\akifk\Desktop\Final dersler\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\MovieRentApp.csproj.GenerateResource.cache
+C:\Users\akifk\Desktop\Final dersler\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\MovieRentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifk\Desktop\Final dersler\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\MovieRentApp.AssemblyInfoInputs.cache
+C:\Users\akifk\Desktop\Final dersler\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\MovieRentApp.AssemblyInfo.cs
+C:\Users\akifk\Desktop\Final dersler\Dersler\NTP Örnekler\LabOdev2\LabOdev2\obj\Debug\net8.0-windows\MovieRentApp.csproj.CoreCompileInputs.cache
