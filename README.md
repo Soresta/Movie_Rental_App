@@ -1,7 +1,20 @@
 # MovieRentalAutomation
 
 ## Ekran Görüntüleri
-![Ekran görüntüsü 2024-07-16 124755](https://github.com/user-attachments/assets/ab0a7c3b-7af3-4c35-a105-22eddc035c91)
+![Ekran görüntüsü 2024-07-16 125712](https://github.com/user-attachments/assets/00577303-fa9a-42f7-88ed-9b3725efa1a0)
+![Ekran görüntüsü 2024-07-16 125728](https://github.com/user-attachments/assets/d0feb996-0ab3-4c77-a275-3b643ef128e4)
+![Ekran görüntüsü 2024-07-16 125718](https://github.com/user-attachments/assets/a2f8d9f2-43a3-4458-99e9-5d8ca9d5a46f)
+![Ekran görüntüsü 2024-07-16 125723](https://github.com/user-attachments/assets/fbe73192-8ae6-42ce-a762-d90c7fff12cb)
+   ![Ekran görüntüsü 2024-07-16 125732](https://github.com/user-attachments/assets/d9036153-f2cf-4d81-a43f-32d7ba5f4eef)
+   ![Ekran görüntüsü 2024-07-16 124755](https://github.com/user-attachments/assets/af4a7ff2-a282-46f7-80da-69ff58bda425)
+   ![Ekran görüntüsü 2024-07-16 125930](https://github.com/user-attachments/assets/8a605b7b-b4bc-443e-948a-36e3cffadb31)
+   ![Ekran görüntüsü 2024-07-16 130026](https://github.com/user-attachments/assets/aeae39a7-8c78-41c4-8b86-3fbdb29970b9)
+
+
+
+
+
+
 
 
 ## Description
