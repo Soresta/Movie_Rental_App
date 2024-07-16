@@ -72,11 +72,11 @@ MovieRentalAutomation, bir film kiralama dükkanını verimli bir şekilde yöne
    - rentals.txt dosyasındaki mevcut ve yeni eklenen kiraları GridView'da gösterir.
    - 
 ## Kurulum
-1.Sisteminizde .NET Framework'ün yüklü olduğundan emin olun.
-2.Depoyu klonlayın:
-``sh
-   git clone https://github.com/Soresta/MovieRentalAutomation.git
-3.Proje dosyasını Visual Studio'da açın.
-4.Projeyi derleyin ve çalıştırın.
+ 1.Sisteminizde .NET Framework'ün yüklü olduğundan emin olun.
+ 2.Depoyu klonlayın:
+ ``sh
+    git clone https://github.com/Soresta/MovieRentalAutomation.git
+ 3.Proje dosyasını Visual Studio'da açın.
+ 4.Projeyi derleyin ve çalıştırın.
 ## Lisans
 Bu proje MIT Lisansı altında lisanslanmıştır. Detaylar için LICENSE dosyasına bakınız.
